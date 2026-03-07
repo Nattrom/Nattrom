@@ -11,24 +11,6 @@
 
 -->
 
-### 🦦 My favorite animal
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohhwfAa9rbXaZe86c/giphy.gif" width="250"/>
-</p>
-
----
-
 ### 💻 Technologies I'm Learning
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php"/>
-  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
-  <img src="https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco"/>
-</p>
-
----
 
 ⭐ *Learning step by step to become a better developer.*
