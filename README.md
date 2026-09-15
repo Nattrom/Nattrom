@@ -29,7 +29,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **Systems Engineering student and Fullstack Developer in training**, passionate about software development, problem-solving, and building practical digital solutions.
+I am a **Systems Engineering student and Fullstack Developer**, passionate about software development, problem-solving, and building practical digital solutions.
 
 I have experience developing **web applications across both frontend and backend**, working with JavaScript, TypeScript, HTML5, CSS3, Bootstrap, Python, Node.js, NestJS, REST APIs, MySQL, and PostgreSQL.
 
