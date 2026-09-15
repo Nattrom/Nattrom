@@ -165,10 +165,6 @@ I am especially interested in **Fullstack Development, Backend Engineering, Soft
 <div align="center">
 
 <a href="https://github.com/Nattrom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nattrom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/Nattrom">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattrom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </a>
 
