@@ -162,14 +162,6 @@ I am especially interested in **Fullstack Development, Backend Engineering, Soft
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/Nattrom">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nattrom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 <br/>
 
 <div align="center">
