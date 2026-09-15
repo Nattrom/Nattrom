@@ -186,25 +186,7 @@ I am especially interested in **Fullstack Development, Backend Engineering, Soft
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nattrom&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
 # 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Nattrom/Woomy">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nattrom&repo=Woomy&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### 🏥 RiwiMediCare Plus
 
@@ -214,7 +196,7 @@ A REST API developed to manage clinics, users, medicine inventory, and supply re
 
 **Technologies:**
 
-`Node.js` `Express` `TypeScript` `PostgreSQL` `Sequelize` `JWT` `Swagger` `Jest` `Docker`
+`Node.js` `Nest.js` `Express` `TypeScript` `PostgreSQL` `Sequelize` `JWT` `Swagger` `Jest` `Docker`
 
 **Key features:**
 
@@ -226,6 +208,8 @@ A REST API developed to manage clinics, users, medicine inventory, and supply re
 * 📚 Swagger API documentation
 * 🧪 Automated testing
 * 🐳 Dockerized environment
+
+[View RiwiMedicare Plus →]([https://github.com/Nattrom/Woomy](https://github.com/riwi-cine/riwi--cine-backend.git))
 
 ---
 
@@ -272,6 +256,8 @@ A collaborative fullstack project developed as part of an integrator project, fo
 * 🔌 API integration
 * 💾 Database management
 * 📱 Responsive interface
+
+[View Dormify →]([https://github.com/Nattrom/Woomy](https://github.com/Nattrom/DORMIFY.git))
 
 ---
 
@@ -358,14 +344,6 @@ When I'm not coding, I enjoy exploring:
 I'm always open to **new opportunities, collaborations, and interesting projects.**
 
 <br/>
-
-<a href="https://github.com/Nattrom">
-<img src="https://img.shields.io/badge/GitHub-Nattrom-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <br/><br/>
 
