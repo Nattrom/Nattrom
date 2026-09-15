@@ -292,7 +292,7 @@ A backend project focused on relational database modeling, cinema locations, roo
 │  ▸ Fullstack Web Development                 │
 │  ▸ Backend Architecture                      │
 │  ▸ NestJS & TypeScript                       │
-│  ▸ REST API Design                            │
+│  ▸ REST API Design                           │
 │  ▸ Database Architecture                     │
 │  ▸ Testing & Code Quality                    │
 │  ▸ Docker & CI/CD                            │
@@ -307,7 +307,7 @@ I believe the best way to learn software development is by **building real proje
 
 ## 💡 What I Bring
 
-| 💻 Technical              | 🤝 Soft Skills      |
+| 💻 Technical              | 🤝 Soft Skills     |
 | ------------------------- | ------------------- |
 | Fullstack Development     | Communication       |
 | REST API Development      | Adaptability        |
