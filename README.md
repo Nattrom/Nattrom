@@ -197,8 +197,6 @@ A REST API developed to manage clinics, users, medicine inventory, and supply re
 * 🧪 Automated testing
 * 🐳 Dockerized environment
 
-[View RiwiMedicare Plus →]([https://github.com/Nattrom/Woomy](https://github.com/riwi-cine/riwi--cine-backend.git))
-
 ---
 
 ### 🐙 Woomy
@@ -244,9 +242,6 @@ A collaborative fullstack project developed as part of an integrator project, fo
 * 🔌 API integration
 * 💾 Database management
 * 📱 Responsive interface
-
-[View Dormify →]([https://github.com/Nattrom/Woomy](https://github.com/Nattrom/DORMIFY.git))
-
 ---
 
 ### 🎬 Cinema API
@@ -332,8 +327,6 @@ When I'm not coding, I enjoy exploring:
 I'm always open to **new opportunities, collaborations, and interesting projects.**
 
 <br/>
-
-<br/><br/>
 
 ### ⭐ Thanks for visiting my profile!
 
